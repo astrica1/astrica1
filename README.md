@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrica1
 - 👀 I’m interested in Cryptography, Parallel processing and Blockchain
-- 🌱 I’m currently learning Computer architecture at Amirkabir university of technology
+- 🌱 I’m currently master student of Computer architecture at Amirkabir University of Technology(Tehran Polytechnic)
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 Reach me by email:
 <alireza.matani.1376@gmail.com>,
