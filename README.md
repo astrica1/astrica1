@@ -5,7 +5,7 @@
 - 📫 Reach me by email:
 <alireza.matani.1376@gmail.com>,
 <alireza.matani@aut.ac.ir>,
-<a.matani@nizek.com>
+<alirezamat@systemgroup.org>
 
 <!---
 astrica1/astrica1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
