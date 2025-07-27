@@ -60,11 +60,21 @@ In addition to my academic research, I have a strong background as a **DevOps** 
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astrica1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="astrica1's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrica1&layout=compact&langs_count=8&theme=dracula" alt="astrica1's Top Languages"/>
-</p>
+
+<div align="center">
+  <table border="0" cellpadding="10" cellspacing="0">
+    <tr align="center">
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=astrica1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="astrica1's GitHub Stats" />
+        <br/><br/>
+        <img src="https://streak-stats.demolab.com?user=astrica1&theme=dracula" alt="streak graph" />
+      </td>
+      <td width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrica1&theme=dracula&langs_count=12" alt="astrica1's Top Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
