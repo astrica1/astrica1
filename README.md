@@ -49,7 +49,7 @@ In addition to my academic research, I have a strong background as a **DevOps** 
 ### 🚀 Featured Projects
 
 **[gollama](https://github.com/astrica1/gollama)**
-- A lightweight and efficient command-line client for Ollama, built entirely in Go. Designed for simplicity and performance.
+- A lightweight and efficient client library for Ollama, built entirely in Go. Designed for simplicity and performance.
 - **Technologies:** `Go`, `CLI Tools`
 
 **[GoLEM (Go Language Execution Model)](https://github.com/astrica1/GoLEM)**
