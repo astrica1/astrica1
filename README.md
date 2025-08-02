@@ -67,7 +67,7 @@ In addition to my academic research, I have a strong background as a **DevOps** 
       <td width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api?username=astrica1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="astrica1's GitHub Stats" />
         <br/><br/>
-        <img src="https://streak-stats.demolab.com?user=astrica1&theme=dracula" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=astrica1&mode=weekly&theme=dracula" alt="streak graph" />
       </td>
       <td width="50%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astrica1&theme=dracula&langs_count=12" alt="astrica1's Top Languages" />
